@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  scheduled: 2015-01-13 19:49:37
+  ref: MyString
+  type: 
+
+two:
+  scheduled: 2015-01-13 19:49:37
+  ref: MyString
+  type: 
